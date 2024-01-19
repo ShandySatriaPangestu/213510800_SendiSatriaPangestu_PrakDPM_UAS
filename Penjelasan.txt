@@ -1,0 +1,5 @@
+Nama : Sendi Satria Pangestu 
+NPM : 213510800
+5A
+Disini ada 2 models yaitu users dan juga schedules
+pada codingan ini ada authentication nya juga dengan token jwt (bearer tokennya)
